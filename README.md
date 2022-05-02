@@ -1,2 +1,2 @@
-I’m @ADBeta 
+@ADBeta - 
 Certified idiot :)
