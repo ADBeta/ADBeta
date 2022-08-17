@@ -1,2 +1,1 @@
-@ADBeta - Inventor, Designer, Hobbyist,
-Certified idiot :)
+@ADBeta - Inventor, Designer, Hobbyist.
