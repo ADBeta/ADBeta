@@ -1,1 +1,1 @@
-@ADBeta - Inventor, Designer, Hobbyist.
+Embedded C++ Systems Designer/Programmer 
